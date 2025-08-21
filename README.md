@@ -11,6 +11,12 @@ JavaScript, HTML and CSS
 
 ---
 
+## Background
+
+Source: [Cyberpunk Anime City Art Wallpapers - WallpaperCave](https://wallpapercave.com/cyberpunk-anime-city-art-wallpapers#google_vignette)
+
+---
+
 ## Author
 
 Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).  
