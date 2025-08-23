@@ -1,6 +1,6 @@
 # Digital Clock using JavaScript
 
-A digital clock that can be toggled between 12-hour and 24-hour clock formats.  
+A responsive digital clock for PCs, tablets, and mobiles that can be toggled between 12-hour and 24-hour clock formats.  
 Made while learning JavaScript.
 
 ---
