@@ -30,6 +30,8 @@ body {
     backdrop-filter: blur(5px);
     background-color: hsla(175, 100%, 54%, 0.12);
     width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 #toggleFormatBtn {
@@ -52,4 +54,42 @@ body {
 
 #toggleFormatBtn:active {
     transform: scale(0.98);
+}
+
+/* tablets */
+@media screen and (max-width: 768px) {
+    #clock {
+        font-size: 4em;
+        padding: 15px;
+    }
+    
+    #toggleFormatBtn {
+        font-size: 16px;
+        padding: 8px 16px;
+        top: 8px;
+        left: 8px;
+    }
+}
+
+/* mobiles */
+@media screen and (max-width: 480px) {
+    #clock {
+        font-size: 3em;
+        padding: 10px;
+    }
+    
+    #toggleFormatBtn {
+        font-size: 14px;
+        padding: 6px 12px;
+        top: 6px;
+        left: 6px;
+    }
+}
+
+/* small mobiles */
+@media screen and (max-width: 320px) {
+    #clock {
+        font-size: 2em;
+        padding: 8px;
+    }
 }
